@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.mehinc.meh;
 
 import android.annotation.SuppressLint;
 import android.app.Application;
